@@ -1,0 +1,79 @@
+.main__box {
+    position: relative;
+    top: 130px;
+    width: 1200px;
+    height: 780px;
+    left: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.text--caption {
+    position: relative;
+    width: 400px;
+    height: 96px;
+    left: 0px;
+    top: 140px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 30px;
+}
+
+.text--inner {
+    position: relative;
+    width: 400px;
+    height: 96px;
+    left: 0px;
+    top: 128px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.main--button {
+    position: relative;
+    width: 115px;
+    height: 35px;
+    left: 0px;
+    top: 166px;
+    font-family: 'Hack';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    border: none;
+    border-radius: 4px;
+    background-color: #FA541C;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.-img-width {
+    width: 600px;
+    height: 650px;
+}
+
+.main--holder {
+    position: relative;
+    width: 115px;
+    height: 25px;
+    top: 380px;
+}
+
+.-icon-width {
+    width: 15px;
+    height: 15px;
+    margin: 0 10px;
+}
+
+.main--button:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    top: 164px;
+}
+
+.-icon-width:hover {
+    filter: invert(1);
+    background-color: #FFFFFF;
+}

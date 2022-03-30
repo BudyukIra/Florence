@@ -1,0 +1,44 @@
+.footer {
+    height: 200px;
+    background-color: #F5F5F5;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer__box {
+    height: 150px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+
+.social--img-tiktok {
+    height: 40px;
+    width: 80px;
+}
+
+.social--img-twitter {
+    height: 50px;
+    width: 80px;
+}
+
+.social--img-youtube {
+    height: 30px;
+    width: 100px;
+}
+
+.footer__copyright {
+    width: 300px;
+    margin-top: 130px;
+}
+
+.copyright {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 32px;
+}

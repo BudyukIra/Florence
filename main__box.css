@@ -1,11 +1,10 @@
 .main__box {
     position: relative;
-    top: 130px;
-    width: 1200px;
+    margin-top: 130px;
     height: 780px;
-    left: 20px;
     display: flex;
     justify-content: space-between;
+    width: 1200px;
 }
 
 .text--caption {

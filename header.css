@@ -1,15 +1,13 @@
 .header {
-    position: relative;
     position: fixed;
     display: flex;
     justify-content: space-between;
     align-items: center;
     height: 40px;
-    width: 1200px;
-    left: 20px;
     padding: 17px 0;
     background-color: #FFFFFF;
     z-index: 3;
+    width: 1200px;
 }
 
 .nav {
@@ -18,7 +16,6 @@
     position: relative;
     width: 328px;
     height: 14px;
-    left: 0px;
 }
 
 a.nav__link {

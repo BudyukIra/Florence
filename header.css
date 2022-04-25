@@ -55,7 +55,7 @@ a.nav__link {
     position: relative;
     width: 250px;
     height: 700px;
-    right: 0;
+    right: 300px;
     background-color: #FFFFFF;
     z-index: 2;
     opacity: 0.95;
